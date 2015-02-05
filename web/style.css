@@ -7,8 +7,31 @@ and open the template in the editor.
     Created on : Jan 26, 2015, 5:47:47 PM
     Author     : Indunil
 */
-.mydiv{
+.body{
+    background-color: #ccffff;
+}
+
+.startpage_header{
+    height: auto;
+    color: white;
+    padding-top: 10px;
+    background-color: #000066;
+    border: solid 2px #cccccc;
+    text-align: center;
+    border-radius: 10px;
+    font-family: trebuchet ms;    
+    font-size: 70px;
+}
+
+.startpage_header_hr{
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 5px;
+    border: solid 2px white;
+}
+
+.startpage_heaader_div1{
+    font-family: trebuchet ms;    
     font-size: 25px;
-    font-family: calibri;
-    color: red;
+    color: #999999;
 }

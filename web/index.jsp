@@ -12,9 +12,11 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <title>Start Page</title>
     </head>
-    <body>
-        <div class="mydiv">
-            <h1><center>Hello World!</center></h1>
+    <body class="body">
+        <div class="startpage_header">
+            Orchid Book Store
+            <hr class="startpage_header_hr"/>
+            <div class="startpage_heaader_div1">Online Marketplace</div>
         </div>
     </body>
 </html>
