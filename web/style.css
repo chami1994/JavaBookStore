@@ -35,3 +35,12 @@ and open the template in the editor.
     font-size: 25px;
     color: #999999;
 }
+
+.startpage_body_div{
+    height: auto;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    background-color: #D46A6A;
+    border-radius: 10px;
+    font-family: trebuchet ms;
+}

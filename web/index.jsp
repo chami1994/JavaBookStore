@@ -18,5 +18,17 @@
             <hr class="startpage_header_hr"/>
             <div class="startpage_heaader_div1">Online Marketplace</div>
         </div>
+        <br/>
+        <div class="startpage_body_div">
+            <div>
+                
+            </div>
+            <div>
+                
+            </div>
+            <div>
+                
+            </div>
+        </div>
     </body>
 </html>
